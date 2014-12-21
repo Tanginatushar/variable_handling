@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc45bd6e-fca3-4ea7-a440-e9c104f6c05f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var_dump.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="variable_handling.iws" />
@@ -81,8 +81,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settype.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settype.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settype.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="var_dump.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/var_dump.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="376">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/print_r.php" />
         <option value="$PROJECT_DIR$/serialize.php" />
         <option value="$PROJECT_DIR$/settype.php" />
+        <option value="$PROJECT_DIR$/var_dump.php" />
       </list>
     </option>
   </component>
@@ -329,6 +340,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settype.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var_dump.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
